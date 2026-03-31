@@ -6,3 +6,4 @@ module org.example.studenta {
     opens org.example.studenta to javafx.fxml;
     exports org.example.studenta;
 }
+
