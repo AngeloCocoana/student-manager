@@ -1,0 +1,6 @@
+[Admin] - (Add Student)
+[Admin] - (Delete Student)
+[Teacher] - (Enter Grades)
+[Student] - (View Grades)
+(Enter Grades) > (Login)
+(View Grades) > (Login)
